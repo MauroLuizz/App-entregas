@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250544020590",
+    "project_id": "fapan-entregas-2a4ee",
+    "storage_bucket": "fapan-entregas-2a4ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250544020590:android:1e276ff944bfab3dd2da7f",
+        "android_client_info": {
+          "package_name": "com.fapan.entregas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250544020590-4hdph74hnbbg1s04tc4b9hlj56hd43j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdYGRITtiglD-s1FoS8LcTu4v8UbYaAjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250544020590-4hdph74hnbbg1s04tc4b9hlj56hd43j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

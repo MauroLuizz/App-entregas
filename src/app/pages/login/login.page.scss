@@ -1,0 +1,37 @@
+ion-content{
+    .black{
+        background-color: black;
+        background-image: url('/assets/back.png');
+        width: 100vw;
+        height: 100vh;
+        .logo{
+            background-image: url('/assets/logo.png');
+            background-repeat: no-repeat;
+            min-height: 300px;
+            min-width: 100vw;
+            background-position: center;
+        }
+        .register{
+                color: #ffffff;
+                font-size: 16px;
+            }
+            .cadastrar{
+              text-align: center;
+              color: #1100ff;
+              font-size: 16px;
+              margin-right: 10px;
+              }
+        .item{
+            margin-left: 10px;
+            margin-right: 10px;
+            border-radius: 30px;
+        }
+        .botao {
+            margin-left: 55px;
+            margin-right: 55px;
+            border-radius: 30px;
+        }
+    }
+
+
+}
